@@ -1,2 +1,2 @@
 # App2
-SPA con vue.js
+SPA con Vue.js (prácticas).
